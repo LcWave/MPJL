@@ -1,0 +1,5 @@
+dataset/
+weights/*_last.pt
+logs/
+__pycache__/
+*.pyc
